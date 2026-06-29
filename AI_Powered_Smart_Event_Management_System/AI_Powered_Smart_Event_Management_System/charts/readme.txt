@@ -1,0 +1,1 @@
+This folder is for charts related files.

@@ -1,0 +1,1 @@
+console.log('AI Event Management System Loaded');
